@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ServiceName: MyString
+  Amount: 
+  Time: 2017-07-15
+
+two:
+  ServiceName: MyString
+  Amount: 
+  Time: 2017-07-15

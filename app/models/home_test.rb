@@ -1,0 +1,2 @@
+class HomeTest < ApplicationRecord
+end
