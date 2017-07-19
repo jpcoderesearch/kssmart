@@ -69,6 +69,6 @@ class HomeTestsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def home_test_params
-      params.require(:home_test).permit(:ServiceName, :Amount, :Time)
+      params.require(:home_test).permit(:ServiceName, :Amount, :image, :Time)
     end
 end
